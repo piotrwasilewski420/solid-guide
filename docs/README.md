@@ -9,7 +9,7 @@ git fetch --all -p
 
 git pull upstream main
 
-git log --graph --oneline --decorate
+git log --graph --branches --oneline --decorate
 
 git checkout -b [your_name]/[what]/[exactly]
 
