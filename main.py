@@ -1,6 +1,7 @@
 import sys
 import argparse
 
+
 def main() -> int:
     """Main function..."""
     parser = argparse.ArgumentParser()
@@ -10,6 +11,7 @@ def main() -> int:
     print(args.val)
 
     return 0
+
 
 if __name__ == "__main__":
     sys.exit(main())

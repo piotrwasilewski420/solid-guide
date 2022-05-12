@@ -1,0 +1,11 @@
+[project]
+name = "solid-guide"
+version = "0.0.1"
+description = "pyproject.toml file for an existing project."
+authors = [
+    "Jan Iwaszkiewicz <jiwaszkiewicz6@gmail.com>"
+]
+readme = "README.md"
+python = "^3.8"
+homepage = "https://github.com/jiwaszki/solid-guide"
+repository = "https://github.com/jiwaszki/solid-guide"
