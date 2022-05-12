@@ -9,6 +9,7 @@ def main() -> int:
     args = parser.parse_args()
 
     print(args.val)
+    print("hello")
 
     return 0
 
